@@ -1,0 +1,141 @@
+body{
+	font-family: CalifornianFB;
+	font-size: 14px;
+	color: #F8A954;
+	
+}
+header{
+background-color: #3493C3;
+color: #F8A954;
+	
+}
+header img
+{
+	width: 200px;
+}
+
+a {
+text-decoration: none	
+}
+
+header{
+	padding: 15px 0;
+	border-bottom: 1px solid #efefef; 
+}
+#hero {
+	background-color: #3493C3;
+	padding: 50px 0;
+}
+
+#planea {
+	text-align: center
+}
+
+.section{
+	padding: 60px 0;
+}
+
+#mejores-lugares {
+background-image:url("../img/image_conoce_mejores_lugares.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+.img-hero{
+	height: 500px;
+	width: 270px;
+	margin: 0 30%;
+}
+
+.hero-info{
+	padding: 98px 30px;
+}
+
+#tours {
+background-image:url( "../img/canoa2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+
+.section{
+	padding: 60px 0;
+}
+
+#hotel {
+background-image:url( "../img/hotel4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+
+.section{
+	padding: 60px 0;
+}
+
+.section{
+	form-color:#3493C3;
+}
+#transporte {
+background-image:url(  "../img/transporte 4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+}
+.titulo{
+	margin: 20px 0;
+	color: #F8A954;
+	font-size: 50px;
+	font-weight: 600px;
+}
+
+.titulo{
+	margin: 20px 0;
+	color: #F8A954;
+	font-size: 50px;
+	font-weight: 600px;
+}
+
+#hero h2{
+	font-size: 30px;
+	color: #0000;
+	font-weight: 200;
+}
+p {
+	margin: 10px 0;
+	color:#F8A954;
+	font-size: 15px;
+}
+.btn-dorado{
+	padding: 10px 30px;
+	background-color: #dbdce4;
+	border-radius: 50px;
+	color: #09090d;
+	font-weight: 600;
+	letter-spacing: 0.5mm;
+	margin: 20px 0;
+}
+
+footer{
+	background-color: #3493C3;
+	padding: 40px 0;
+
+}
+
+.firma{
+	font-size: 15px;
+	color: #F8A954;
+	text-align: center;
+}
+
+
+#leidos{
+	align-items: center;
+	padding: 5% 0
+}
+
+#leidos{
+	text-align: center;
+	padding: 5% 0
+
+}
