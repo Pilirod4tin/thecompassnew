@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
 body{
-	font-family: CalifornianFB;
+	font-family: "Rubik";
 	font-size: 14px;
 	color: #F8A954;
 	
@@ -12,6 +14,94 @@ color: #F8A954;
 header img
 {
 	width: 200px;
+}
+
+
+
+
+#hero {
+	background-color: #3493C3;
+	padding: 50px 0;
+}
+
+
+.section{
+	padding: 60px 0;
+}
+
+.img-hero{
+	height: 500px;
+	width: 270px;
+	margin: 0 30%;
+}
+.hero-info{
+	padding: 98px 30px;
+}
+
+
+.titulo{
+	margin: 20px 0;
+	color: #FFFFFF;
+	font-size: 50px;
+	font-weight: 600px;
+}
+
+#features p{
+color:#000;	
+font-size: 18px;
+text-align: center;
+}
+
+#visiten p{
+color:#fff;	
+font-size: 18px;
+text-align: center;
+}
+
+#atractivo p{
+color:#fff;	
+font-size: 18px;
+text-align: center;
+}
+
+
+#articulos p{
+color:#000;	
+font-size: 18px;
+}
+
+#leídos p{
+color:#000;	
+font-size: 18px;
+}
+
+#informacion p{
+color:#000;	
+font-size: 18px;
+}
+
+#mision p{
+color:#000;	
+font-size: 18px;
+}
+
+#vision p{
+color:#000;	
+font-size: 18px;
+}
+
+#hero h2{
+	font-size: 30px;
+	color: #dbdce4;
+	font-weight: 200;
+}
+p {
+	margin: 10px 0;
+	color:#FFFFFF;
+	font-size: 15px;
+}
+.navbar{
+	background-color: #3493C3
 }
 
 a {
@@ -105,6 +195,33 @@ p {
 	margin: 10px 0;
 	color:#F8A954;
 	font-size: 15px;
+}
+#planea li{
+	text-align: center;
+	font-size: 40px;
+}
+
+#planea h2,p{
+	padding-left: 6%
+}
+
+#planea{
+	align-content: center;
+	padding-bottom: 10%
+}
+
+
+
+#visita1{
+	background-image:url( "../img/canoa2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+	padding-bottom: 7%;
+	padding-top: 7%;
+	align-content: center;
+	color: #fff;
+	text-align: center;
 }
 .btn-dorado{
 	padding: 10px 30px;
